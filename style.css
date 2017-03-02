@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+* { margin:0; padding:0; }
+article, aside, figure, footer, header, hgroup, nav, section { display:block; }
+a img{ border-style:none;}
+
+/* Font */
+
+
+
+/* Style */
+html{
+	background: #26282c;
+	font-family: Calibri, Arial, sans-serif;
+	color: #e4e0e0;
+}
