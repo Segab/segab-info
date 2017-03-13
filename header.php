@@ -6,31 +6,21 @@
 	<meta name="description" content="Segab's shit">
 	<meta name="keywords" content="Segab">
 	<meta name="viewport" content="width=device-width">
-	<link rel="shortcut icon" href="lol.ico" >
+	<link rel="shortcut icon" href="/lol.ico" >
 	<title>
-		Segab's shit, also hi?
+		Segab's shit
 	</title>
 		
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="<?php echo $ROOT; ?>css/style.css" type='text/css' rel='stylesheet'/>
 	
-	<script>
-	  
-	</script>
 </head>
 
 <body>
 
-<div id="top">
+<header id="top">
 	<header>
-		yaya
+		[ This will replace my Dropbox public folder. It will look better later i swear! ]
 	</header>
-</div>
+</header>
 
-
-<div id="content">
-	oo babby!
-</div>
-
-</body>
-
-</html>
+<!-- Fin header -->
